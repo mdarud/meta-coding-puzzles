@@ -1,6 +1,6 @@
 # Meta Coding Puzzles Solutions
 
-This repository contains solutions to Meta's coding puzzles in both Python and C++. The puzzles are organized by difficulty level: Warmup, Level 1, and Level 2.
+This repository contains solutions to Meta's coding puzzles in both Python and C++. The puzzles are organized by difficulty level: Warmup, Level 1, Level 2, and Level 3.
 
 ## Repository Structure
 
@@ -12,7 +12,10 @@ This repository contains solutions to Meta's coding puzzles in both Python and C
 ├── Level 1/          # Level 1 problems (intermediate)
 │   ├── cpp/          # C++ solutions
 │   └── py/           # Python solutions
-└── Level 2/          # Level 2 problems (advanced)
+├── Level 2/          # Level 2 problems (advanced)
+│   ├── cpp/          # C++ solutions
+│   └── py/           # Python solutions
+└── Level 3/          # Level 3 problems (expert)
     ├── cpp/          # C++ solutions
     └── py/           # Python solutions
 ```
@@ -42,6 +45,10 @@ This repository contains solutions to Meta's coding puzzles in both Python and C
 - **RotatoryLock2**: An extension of the Level 1 problem with multiple dials.
 - **ScoreboardInference2**: An extension of the Level 1 problem with more complex inference.
 - **TunnelTime**: Find the optimal path through tunnels with time constraints.
+
+### Level 3
+- **BossFight**: Maximize damage dealt to a boss with unlimited health using two warriors.
+- **RabbitHole2**: Find the maximum number of different web pages that can be visited in a single browsing session.
 
 ## How to Run
 
